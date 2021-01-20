@@ -1,3 +1,6 @@
-This is the project directory for the guided project [Improving the Performance of Deep Learning based Flask App with ZMQ](https://cloudxlab.com/assessment/playlist-intro/603/improving-the-performance-of-deep-learning-based-f).
+# Dockerized-Image-Classification-App
 
-"# Dockerized-Image-Classification-App" 
+This is the dockerized verion of the project 
+project directory for the image classification project using Flask and ZMQ.[Improving the Performance of Deep Learning based Flask App with ZMQ](https://github.com/vagdevik/Flask-ZMQ-App-Folder).
+
+
